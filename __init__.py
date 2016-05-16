@@ -85,7 +85,10 @@ class BusPirateI2C(BusPirate):
 		else:
 			sleep(timeout)
 
+
 class BusPirateSSD1306(BusPirateI2C):
+	# Documentation of SSD1306 https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf#page=37&zoom=auto,0,842
+		
 	MEM_ADDR_MODE_PAGE = 0x10
 	MEM_ADDR_MODE_HORZ = 0x00
 	MEM_ADDR_MODE_VERT = 0x01

@@ -1,6 +1,6 @@
 # buspirate_SSD1306
 
-Python3 module for SSD1306 OLED 128x64 Display with Bus Pirate
+Python3 module for SSD1306 OLED 128x64 Display (https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf#page=37&zoom=auto,0,842) with Bus Pirate (http://dangerousprototypes.com/docs/Bus_Pirate)
 
 ## Usage
 
